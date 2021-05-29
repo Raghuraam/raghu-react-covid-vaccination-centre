@@ -1,0 +1,75 @@
+
+body {
+  margin: auto;
+  background-color: #cfd8dc;
+  width: 100%;
+}
+
+#state_dropdown {
+  border-radius: 25px;
+}
+
+#district_dropdown {
+  border-radius: 25px;
+}
+
+header{
+color: rgb(223, 31, 31);
+  font-family: Tahoma, sans-serif;
+  font-size: 200%;
+   text-shadow: 2px 2px 5px rgb(14, 170, 35);
+
+}
+
+#covishield{
+ color : rgb(5, 5, 216);
+ font-family: Georgia, 'Times New Roman', Times, serif
+}
+th{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#covaxin{
+   color : chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#centers tr:nth-child(even){background-color: rgb(192, 190, 190);}
+
+#centers tr:hover {background-color: #eeff41 ; }
+
+#centers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #42b455;
+  border-bottom: 6px solid rgb(199, 80, 80);
+  color: white;  
+  font-size: 20px;
+}
+
+#centers td {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  color: rgba(10, 8, 8, 0.719);  
+  font-size: 20px;
+}
+
+#app {
+align-content: center;
+
+}
+
+#sp_1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: rgba(243, 9, 9, 0.719);
+}
+
+
+
+
+
+
+
+
